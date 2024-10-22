@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olewoipe.github.io/BhV/sitemap_index.txt.gz
+Sitemap: https://olewoipe.github.io/FIJ/sitemap_index.txt.gz
+Sitemap: https://olewoipe.github.io/VvL/sitemap_index.txt.gz
+Sitemap: https://olewoipe.github.io/bTW/sitemap_index.txt.gz
+Sitemap: https://olewoipe.github.io/lAS/sitemap_index.txt.gz
